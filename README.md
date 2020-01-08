@@ -9,7 +9,7 @@ Find bars and restaurants and so on.
 I provide search results in a manner that is visually appealing for website users. 
 
 ## Demo
-A live demo can be found [here] (https://gannasachkova.github.io/project-2-google-map/).
+A live demo can be found [here](https://gannasachkova.github.io/project-2-google-map/).
 
 ## UX
 My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist design. The bright colour scheme was chosen to create a sleek and modern feel.
@@ -38,21 +38,19 @@ As result, our visitors can see on the map their requirements with the help of t
 As well as that this site was tested across multiple browsers and on multiple mobile devices to ensure compatibility and responsiveness.
 ## Deployment
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
-To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/GannaSachkova/project-2-google-map.git into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
+To run locally, you can clone this repository directly into the editor of your choice by pasting [git clone](https://github.com/GannaSachkova/project-2-google-map.git) into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
     
 ## Credits
 ### Content
-As example of my project was taken Ben Hasselgren’s Holiday Planner project:
-
-https://benhasselgren.github.io/ifd-milestone-project-pages/
+As example of my project was taken [Ben Hasselgren’s Holiday Planner project:](https://benhasselgren.github.io/ifd-milestone-project-pages/)
 
 ### Media
 All photos were taken from Google Maps
 
 ### Acknowledgements
-For the solving some challenges during my work I used next sites:
-https://developers.google.com/maps/documentation/javascript/tutorial
-https://www.w3schools.com/graphics/google_maps_intro.asp
+For the solving some challenges during my work I used next sites: [Google Maps Platform](https://developers.google.com/maps/documentation/javascript/tutorial) and [https://www.w3schools.com/](https://www.w3schools.com/graphics/google_maps_intro.asp)
 
-**This is for educational purpose only & not for commercial use. **
+
+
+**This is for educational purpose only & not for commercial use.**
 

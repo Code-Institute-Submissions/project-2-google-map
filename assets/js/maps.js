@@ -20,7 +20,7 @@ function initMap() {
         mapTypeControl: false,
         panControl: false,
         streetViewControl: false
-        // zoomControlOptions: {
+       
     });
 
 
@@ -177,19 +177,6 @@ function initMap() {
     $('#accommodationRadio').click(selectPlaces);
     $('#foodRadio').click(selectPlaces);
     $('#entertainment').click(selectPlaces);
-
-
-    // add Listener 'mouseover'
-    /*                marker.addListener('click', function() {
-                        infoWindow.open(map, marker);
-                    });
-                    
-                    // add Listener 'mouseout'
-                    marker.addListener('mouseout', function() {
-                        infoWindow.close(map, marker);
-                    });
-    */
-
 
 
 } // end  addMarker() function
